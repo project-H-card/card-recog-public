@@ -1,0 +1,258 @@
+{
+  "card001渋沢栄一": {
+    "name": "渋沢栄一",
+    "peopleUrl": "https://highsto.net/people/%E6%B8%8B%E6%B2%A2%E6%A0%84%E4%B8%80"
+  },
+  "card002ペリー": {
+    "name": "ペリー",
+    "peopleUrl": "https://highsto.net/people/%E3%83%9A%E3%83%AA%E3%83%BC"
+  },
+  "card003伊達政宗": {
+    "name": "伊達政宗",
+    "peopleUrl": "https://highsto.net/people/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97"
+  },
+  "card004蔦屋重三郎": {
+    "name": "蔦屋重三郎",
+    "peopleUrl": "https://highsto.net/people/%E8%94%A6%E5%B1%8B%E9%87%8D%E4%B8%89%E9%83%8E"
+  },
+  "card005徳川光圀": {
+    "name": "徳川光圀",
+    "peopleUrl": "https://highsto.net/people/%E5%BE%B3%E5%B7%9D%E5%85%89%E5%9C%80"
+  },
+  "card006正岡子規": {
+    "name": "正岡子規",
+    "peopleUrl": "https://highsto.net/people/%E6%AD%A3%E5%B2%A1%E5%AD%90%E8%A6%8F"
+  },
+  "card007伊能忠敬": {
+    "name": "伊能忠敬",
+    "peopleUrl": "https://highsto.net/people/%E4%BC%8A%E8%83%BD%E5%BF%A0%E6%95%AC"
+  },
+  "card008上杉謙信": {
+    "name": "上杉謙信",
+    "peopleUrl": "https://highsto.net/people/%E4%B8%8A%E6%9D%89%E8%AC%99%E4%BF%A1"
+  },
+  "card009歌川広重": {
+    "name": "歌川広重",
+    "peopleUrl": "https://highsto.net/people/%E6%AD%8C%E5%B7%9D%E5%BA%83%E9%87%8D"
+  },
+  "card010太宰治": {
+    "name": "太宰治",
+    "peopleUrl": "https://highsto.net/people/%E5%A4%AA%E5%AE%B0%E6%B2%BB"
+  },
+  "card011北条早雲": {
+    "name": "北条早雲",
+    "peopleUrl": "https://highsto.net/people/%E5%8C%97%E6%9D%A1%E6%97%A9%E9%9B%B2"
+  },
+  "card012小野小町": {
+    "name": "小野小町",
+    "peopleUrl": "https://highsto.net/people/%E5%B0%8F%E9%87%8E%E5%B0%8F%E7%94%BA"
+  },
+  "card013喜多川歌麿": {
+    "name": "喜多川歌麿",
+    "peopleUrl": "https://highsto.net/people/%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF"
+  },
+  "card014クラーク": {
+    "name": "クラーク",
+    "peopleUrl": "https://highsto.net/people/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
+  },
+  "card015津田梅子": {
+    "name": "津田梅子",
+    "peopleUrl": "https://highsto.net/people/%E6%B4%A5%E7%94%B0%E6%A2%85%E5%AD%90"
+  },
+  "card016徳川家康": {
+    "name": "徳川家康",
+    "peopleUrl": "https://highsto.net/people/%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7"
+  },
+  "card017新島八重": {
+    "name": "新島八重",
+    "peopleUrl": "https://highsto.net/people/%E6%96%B0%E5%B3%B6%E5%85%AB%E9%87%8D"
+  },
+  "card018新田義貞": {
+    "name": "新田義貞",
+    "peopleUrl": "https://highsto.net/people/%E6%96%B0%E7%94%B0%E7%BE%A9%E8%B2%9E"
+  },
+  "card019源義経": {
+    "name": "源義経",
+    "peopleUrl": "https://highsto.net/people/%E6%BA%90%E7%BE%A9%E7%B5%8C"
+  },
+  "card020宮沢賢治": {
+    "name": "宮沢賢治",
+    "peopleUrl": "https://highsto.net/people/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB"
+  },
+  "card021シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card022シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card023シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card024シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card025シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card026シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card027シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card028シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card029ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card030ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card031ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card032ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card033織田信長": {
+    "name": "織田信長",
+    "peopleUrl": "https://highsto.net/people/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7"
+  },
+  "card034福沢諭吉": {
+    "name": "福沢諭吉",
+    "peopleUrl": "https://highsto.net/people/%E7%A6%8F%E6%B2%A2%E8%AB%AD%E5%90%89"
+  },
+  "card035坂本龍馬": {
+    "name": "坂本龍馬",
+    "peopleUrl": "https://highsto.net/people/%E5%9D%82%E6%9C%AC%E9%BE%8D%E9%A6%AC"
+  },
+  "card036ザビエル": {
+    "name": "ザビエル",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B6%E3%83%93%E3%82%A8%E3%83%AB"
+  },
+  "card037聖徳太子": {
+    "name": "聖徳太子",
+    "peopleUrl": "https://highsto.net/people/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90"
+  },
+  "card038豊臣秀吉": {
+    "name": "豊臣秀吉",
+    "peopleUrl": "https://highsto.net/people/%E8%B1%8A%E8%87%A3%E7%A7%80%E5%90%89"
+  },
+  "card039鑑真": {
+    "name": "鑑真",
+    "peopleUrl": "https://highsto.net/people/%E9%91%91%E7%9C%9F"
+  },
+  "card040北里柴三郎": {
+    "name": "北里柴三郎",
+    "peopleUrl": "https://highsto.net/people/%E5%8C%97%E9%87%8C%E6%9F%B4%E4%B8%89%E9%83%8E"
+  },
+  "card041徳川吉宗": {
+    "name": "徳川吉宗",
+    "peopleUrl": "https://highsto.net/people/%E5%BE%B3%E5%B7%9D%E5%90%89%E5%AE%97"
+  },
+  "card042卑弥呼": {
+    "name": "卑弥呼",
+    "peopleUrl": "https://highsto.net/people/%E5%8D%91%E5%BC%A5%E5%91%BC"
+  },
+  "card043吉田松陰": {
+    "name": "吉田松陰",
+    "peopleUrl": "https://highsto.net/people/%E5%90%89%E7%94%B0%E6%9D%BE%E9%99%B0"
+  },
+  "card044大隈重信": {
+    "name": "大隈重信",
+    "peopleUrl": "https://highsto.net/people/%E5%A4%A7%E9%9A%88%E9%87%8D%E4%BF%A1"
+  },
+  "card045小野妹子": {
+    "name": "小野妹子",
+    "peopleUrl": "https://highsto.net/people/%E5%B0%8F%E9%87%8E%E5%A6%B9%E5%AD%90"
+  },
+  "card046空海": {
+    "name": "空海",
+    "peopleUrl": "https://highsto.net/people/%E7%A9%BA%E6%B5%B7"
+  },
+  "card047西郷隆盛": {
+    "name": "西郷隆盛",
+    "peopleUrl": "https://highsto.net/people/%E8%A5%BF%E9%83%B7%E9%9A%86%E7%9B%9B"
+  },
+  "card048尚巴志王": {
+    "name": "尚巴志王",
+    "peopleUrl": "https://highsto.net/people/%E5%B0%9A%E5%B7%B4%E5%BF%97%E7%8E%8B"
+  },
+  "card049ジョン万次郎": {
+    "name": "ジョン万次郎",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B8%E3%83%A7%E3%83%B3%E4%B8%87%E6%AC%A1%E9%83%8E"
+  },
+  "card050清少納言": {
+    "name": "清少納言",
+    "peopleUrl": "https://highsto.net/people/%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80"
+  },
+  "card051松尾芭蕉": {
+    "name": "松尾芭蕉",
+    "peopleUrl": "https://highsto.net/people/%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89"
+  },
+  "card052紫式部": {
+    "name": "紫式部",
+    "peopleUrl": "https://highsto.net/people/%E7%B4%AB%E5%BC%8F%E9%83%A8"
+  },
+  "card053シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card054シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card055シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card056シオリン": {
+    "name": "シオリン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%82%AA%E3%83%AA%E3%83%B3"
+  },
+  "card057シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card058シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card059シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card060シュン": {
+    "name": "シュン",
+    "peopleUrl": "https://highsto.net/people/%E3%82%B7%E3%83%A5%E3%83%B3"
+  },
+  "card061ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card062ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card063ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  },
+  "card064ハマボウ": {
+    "name": "ハマボウ",
+    "peopleUrl": "https://highsto.net/people/%E3%83%8F%E3%83%9E%E3%83%9C%E3%82%A6"
+  }
+}

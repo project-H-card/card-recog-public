@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Recognition (Vector Search)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>カード認識システム (ベクトル検索版)</h1>
+
+        <div class="status-panel">
+            <div class="spinner" id="loading-spinner"></div>
+            <p id="model-status">特徴量データベースとAIモデルを読み込んでいます...</p>
+        </div>
+
+        <div class="main-content hide" id="main-content">
+            <div class="input-section">
+                <!-- カメラ表示 + ガイド枠オーバーレイ -->
+                <div class="camera-wrapper">
+                    <video id="webcam" autoplay playsinline width="320" height="320"></video>
+                    <div class="card-guide-overlay">
+                        <div class="card-guide-frame"></div>
+                        <p class="card-guide-label">カードをここに合わせてください</p>
+                    </div>
+                    <!-- キャプチャ後フリーズ表示 -->
+                    <canvas id="capture-canvas" class="hide"></canvas>
+                    <div id="capture-ok-msg" class="hide">
+                        <p>解析中...</p>
+                        <p class="capture-ok-sub">カードを外してOKです</p>
+                    </div>
+                </div>
+
+                <div class="controls">
+                    <button id="toggle-camera-btn">カメラON/OFF</button>
+                    <div class="file-upload">
+                        <label for="image-upload" class="upload-btn">画像をアップロード</label>
+                        <input type="file" id="image-upload" accept="image/*" class="hide">
+                    </div>
+                </div>
+
+                <div class="preview-area hide" id="preview-area">
+                    <img id="preview-image" alt="Uploaded Preview">
+                </div>
+            </div>
+
+            <div class="result-section">
+                <button id="predict-btn" class="primary-btn" disabled>認識する</button>
+
+                <div id="prediction-result" class="result-card hide">
+
+                    <!-- ローディング中 -->
+                    <div id="result-loading" class="hide">
+                        <div class="result-spinner"></div>
+                        <p class="result-loading-text">解析中です...</p>
+                    </div>
+
+                    <!-- 高信頼: 1件表示 -->
+                    <div id="result-confident">
+                        <h2>認識結果</h2>
+                        <p class="prediction-label" id="result-card-name">-</p>
+                        <p class="prediction-card-id">カードID: <span id="result-card-id">-</span></p>
+                        <p class="prediction-confidence">類似度: <span id="confidence-text">-</span></p>
+                    </div>
+
+                    <!-- 低信頼: TOP-3 候補提示 -->
+                    <div id="result-uncertain" class="hide">
+                        <h2>⚠ 候補を選択してください</h2>
+                        <p class="uncertain-hint">自信度が低いため、正しいカードをタップしてください</p>
+                        <div id="candidates-list"></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <p style="margin-top: 15px; font-size: 14px;"><a href="index.html">→ 通常版（CNNモデル）へ戻る</a></p>
+        </div>
+    </div>
+
+    <script type="module" src="app_vector.js"></script>
+</body>
+
+</html>
